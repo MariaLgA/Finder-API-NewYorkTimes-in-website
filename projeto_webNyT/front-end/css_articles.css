@@ -1,0 +1,57 @@
+
+.inputs
+{
+    background: transparent;
+    border: none;
+    border-bottom: 1px solid #000000;
+    margin-top: 40px;
+}
+
+.input_texts
+{
+    margin-top: 40px;
+    margin-left: 20px;
+}
+
+.split
+{
+    height: 100%;
+    width: 50%;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    overflow-x: hidden;
+    padding-top: 20px;
+}
+
+.right
+{
+    background-color: white;
+    right: 0;    
+}
+
+.left
+{
+    background-color: #f4998D; 
+    left: 0;
+}
+
+.rectangle_white_input
+{
+    width: 60%;
+    height: 80%;
+    background-color: white;
+    margin-left: 20%;
+    margin-top: 10%;
+    border-radius: 20px;
+}
+
+h4
+{
+    margin-left: 20px;
+}
+
+.button {
+
+    cursor: pointer;
+  }
